@@ -1,4 +1,11 @@
 body {
     background-color: #1B1C1E;
+    color: #626262;
+}
+h1, h2, h3, h4, h5, h6 {
     color: #ae865f
+}
+:any-link {
+    color: #ae865f;
+    text-decoration: underline;
 }
