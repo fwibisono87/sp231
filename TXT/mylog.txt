@@ -2,3 +2,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 5 L03 Setup GH
+ZCZC W00 50 L10 Setup VM
