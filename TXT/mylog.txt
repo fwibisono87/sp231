@@ -6,3 +6,7 @@ ZCZC W00 50 L10 Setup VM
 ZCZC W01 100 L02 Monday Class
 ZCZC W01 120 L21 L2 Virtualization on Google Cloud
 ZCZC W01 60 L11 Migrate VM to GCP, run W01 assignments
+ZCZC W02 100 L02 Monday Class
+ZCZC W02 15 L02 Tuesday Class
+ZCZC W02 36 L21 Create local backups for VM
+ZCZC W02 180 L12 Do Assignment LFS
