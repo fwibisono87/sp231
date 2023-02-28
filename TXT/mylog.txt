@@ -10,3 +10,6 @@ ZCZC W02 100 L02 Monday Class
 ZCZC W02 15 L02 Tuesday Class
 ZCZC W02 36 L21 Create local backups for VM
 ZCZC W02 180 L12 Do Assignment LFS
+ZCZC W03 200 L13 Do Assignment New Kernel/TLPI
+ZCZC W03 100 L02 Monday Class
+ZCZC W03 30 L07 Do FUSE Demo
