@@ -13,3 +13,5 @@ ZCZC W02 180 L12 Do Assignment LFS
 ZCZC W03 200 L13 Do Assignment New Kernel/TLPI
 ZCZC W03 100 L02 Monday Class
 ZCZC W03 30 L07 Do FUSE Demo
+ZCZC W04 100 L02 Monday Class
+ZCZC W04 100 L14 Do W04 assignment
