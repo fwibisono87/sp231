@@ -18,4 +18,6 @@ ZCZC W04 100 L14 Do W04 assignment
 ZCZC W05 100 l02 mONDAY cLASS
 ZCZC W05 100 L15 do w05 assignment
 ZCZC W06 100 L02 Monday class
-ZCZC W07 160 L16 do W06 assignment
+ZCZC W06 160 L16 do W06 assignment
+ZCZC W07 160 L17 do W07 assignment
+ZCZC W07 100 L02 Monday Class
