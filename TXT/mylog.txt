@@ -25,3 +25,5 @@ ZCZC W08 100 L02 Monday Class
 ZCZC W08 200 L18 do W08 assignment
 ZCZC W09 100 L02 Monday Class
 ZCZC W09 201 L19 do W09 assignment
+ZCZC W10 100 L02 Monday Class
+ZCZC W10 233 L20 Do W10 assignment
